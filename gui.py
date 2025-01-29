@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import filedialog
 from tesserocr import PyTessBaseAPI
 from tesserocr import get_languages
-from PIL import Image
 
 tessdata_path = "/usr/share/tesseract-ocr/4.00/tessdata"
 
